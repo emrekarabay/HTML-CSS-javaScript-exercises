@@ -1,0 +1,13 @@
+body {
+     background-color: black;
+}
+
+.form-control:hover {
+     border: 2px solid rebeccapurple;
+
+
+}
+p {
+     text-align: center;
+     color: white;
+}
